@@ -1,7 +1,7 @@
 import re
 import requests
 
-TOKEN = "001760c082628903831fdebad429720c458f316a093790744736e3cc579d571cd379cf002168742b0f4a6"
+TOKEN = "SAMPLE TOKEN"
 
 GAS = "https://vk.com/album-6923031_264590399"
 
